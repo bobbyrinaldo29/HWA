@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HWA v1.0</string>
+    <string name="selamat_datang">Selamat Datang</string>
+    <string-array name="numbers">
+        <item>5</item>
+        <item>7</item>
+        <item>10</item>
+    </string-array>
+</resources>
